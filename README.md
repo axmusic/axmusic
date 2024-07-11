@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @axmusic
-- 👀 I’m interested in WordPress
-- 🌱 I’m currently learning PHP
+- 👋 Hi, I’m Ax. Pawar
+- 👀 I’m interested in AI Engineering.
+- 🌱 I’m currently learning Artificial General Intelligence and Machine learning.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me at ax@axwon.com
 
 <!---
 axmusic/axmusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
